@@ -1,5 +1,8 @@
 .bd{
     padding: 80px 160px;
+    
+    margin-bottom:80px;
+    
 }
 .fira-sans-medium {
     font-family: "Fira Sans", serif;
@@ -39,4 +42,64 @@
 }
 .banner-image{
     padding: 80px 59.99px 80px 64px;
+}
+.future{
+    font-size: 40px;
+    font-weight: bold;
+}
+.f-description{
+    font-size: 16px;
+    font-weight: normal;
+    color: grey;
+}
+
+.v1ppm{
+    padding: 32px;
+                /* margin: 24px; */
+                border-radius: 16px;
+                font-size: 16px;
+    font-weight: normal;
+}
+.v1btn{
+    padding: 11px 20px;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+.visions{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.v1-bg{
+    background-color:   #e6f0ff;
+    margin-right: 12px;
+}
+.v2-bg{
+    background-color: #e6f9e6;
+    margin: 0px 12px 0px 12px;
+}
+.v3-bg{
+background-color: #fff8e6;
+margin-left: 12px;
+}
+
+.vbtn1{
+    background-color: #4285f4;
+}
+.vbtn2{
+    background-color: #34a853;
+}
+.vbtn3{
+    background-color: #FFC239;
+}
+.dr{
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    font-size: 16px;
+    font-weight: normal;
+}
+.dr-yunus{
+    font-size: 20px;
+    font-weight: 600px;
 }
