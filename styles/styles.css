@@ -1,0 +1,30 @@
+.bd{
+    padding: 80px 160px;
+}
+.fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .banner-txt{
+    
+  }
+  .bd2{
+    color: grey;
+  }
+  .iiv{
+    font-size: 56px;
+    font-weight: bold;
+    margin-top: 16px;
+    max-width: 50%;
+  }
+  .btn1{
+    margin-top: 24px;
+    padding: 20px 30px;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: none;
+  }
