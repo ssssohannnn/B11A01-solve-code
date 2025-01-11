@@ -34,7 +34,13 @@
     background-color: #006A50;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
   }
+  .btn1:hover{
+    background-color: #39ff14;
+}
+
+  
 .sec1{
     display: flex;
     background: linear-gradient(135deg, #e9f5f2, #c4e9e4);
@@ -67,6 +73,10 @@
     color: #FFFFFF;
     border: none;
 }
+.v1btn:hover{
+    background-color: #39ff14;
+}
+
 .visions{
     display: flex;
     justify-content: space-between;
@@ -88,13 +98,25 @@ margin-left: 12px;
 
 .vbtn1{
     background-color: #4285f4;
+    cursor: pointer;
     
 }
+.vbtn1:hover{
+    background-color: #39ff14
+}
+
+
 .vbtn2{
     background-color: #34a853;
+    cursor: pointer;
 }
+.vbtn2:hover{
+    background-color: #39ff14;
+}
+
 .vbtn3{
-    background-color: #FFC239;
+    background-color: #FFC239; 
+    cursor: pointer;
 }
 .dr{
     background-image: url("../assets/quote-bg.png");
@@ -144,7 +166,13 @@ margin-left: 12px;
     border-radius: 8px;
     border: none;
     background-color: #006A50;
+    cursor: pointer;
 }
+.read-more:hover{
+    background-color: #39ff14;
+}
+
+
 .donate{
     margin-top: 56px;
     text-align: center;
@@ -191,6 +219,10 @@ margin-left: 12px;
     border: none;
     border-radius: 8px;
     padding:17px 34px ;
+    cursor: pointer;
+}
+.dnt:hover{
+    background-color: #39ff14;
 }
 .ftr{
     margin-top: 80px;
@@ -221,9 +253,13 @@ margin-left: 12px;
     color: #FFFFFF;
     border: none;
     border-radius: 0px 8px 8px 0px;
+    cursor: pointer;
     
 
 }
+.sub:hover{
+    background-color: #39ff14;}
+
 .merge{
     display: flex;
     justify-content: center; 
