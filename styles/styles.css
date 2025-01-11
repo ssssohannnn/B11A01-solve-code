@@ -198,6 +198,10 @@ margin-left: 12px;
     justify-content: center;
     border-radius: 16px;
 }
+.amount:hover{
+    background-color: #39ff14;
+}
+
 .l{
     background-color: #34a853;
 }
@@ -208,9 +212,11 @@ margin-left: 12px;
     text-align: center;
     font-size: 20px;
     width: 1032px;
+
     
     
 }
+
 .dnt{
     font-size: 18px;
     font-weight: 600px;
